@@ -1,8 +1,8 @@
 # AdventureWorks-Dashboard
-🚀 **Overview**
+**Overview**
 This repository showcases my AdventureWorks Power BI Dashboard, developed as part of my journey in mastering data visualization and business intelligence. The project demonstrates my ability to transform raw data into actionable insights, enabling data-driven decision-making for a fictitious global manufacturing company.
 
-🗂️ **Project Details**
+**Project Details**
 
 Scenario:
 AdventureWorks' management needs a comprehensive dashboard to monitor KPIs like sales, revenue, profit, and returns, while also comparing regional performance and identifying high-value customers.
@@ -11,7 +11,7 @@ Objective:
 Transform raw CSV data into a structured model.
 Design an interactive dashboard to enable key stakeholders to explore business insights effortlessly.
 
-📊 **Dashboard Highlights**
+**Dashboard Highlights**
 
 Sales Performance:
 Visualized sales trends over time, segmented by regions and product categories.
@@ -25,7 +25,7 @@ Identified high-value customers and provided segmentation based on demographics 
 Returns Analysis:
 Tracked return rates to identify areas for improvement in product quality or customer service.
 
-💡 **Key Features**
+**Key Features**
 
 Data Modeling: Built a relational data model with fact and dimension tables to normalize the dataset and optimize performance.
 
@@ -35,7 +35,7 @@ Interactive Visualizations: Implemented filters, slicers, and drill-downs for dy
 
 Performance Optimization: Applied Power BI best practices, such as optimized queries and reduced data redundancy, for seamless performance.
 
-🛠️ **Technical Skills Demonstrated**
+**Technical Skills Demonstrated**
 
 Power BI Components: Data modeling, Power Query, DAX, and advanced dashboard design.
 
