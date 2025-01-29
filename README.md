@@ -1,4 +1,4 @@
-# AdventureWorks-Dashboard
+# Dynamic Sales and Profitability Dashboard: Data-Driven Pricing Insights 
 **Overview**
 This repository showcases my AdventureWorks Power BI Dashboard, developed as part of my journey in mastering data visualization and business intelligence. The project demonstrates my ability to transform raw data into actionable insights, enabling data-driven decision-making for a fictitious global manufacturing company.
 
